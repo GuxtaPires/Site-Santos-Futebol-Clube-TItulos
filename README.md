@@ -11,7 +11,7 @@ Pretendo avançar com esse projeto, conforme eu vá aprendendo mais tags e atrib
 
 ## Feedback
 
-Me mande sua opinião sobre este sistema neste meio:
+Me mande sua opinião sobre este site neste meio:
 
 - [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
